@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 20,
+    "terminal.integrated.fontSize": 18,
+    "window.zoomLevel": -1,
+    "editor.tabSize": 4,
+    "workbench.colorTheme": "Atlantic Night",
+    "editor.minimap.enabled": false,
+    "python.linting.enabled": false,
+    "python.linting.lintOnSave": false
+}
